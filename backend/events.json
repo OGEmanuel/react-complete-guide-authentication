@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A town hall","image":"https://media.premiumtimesng.com/wp-content/files/2023/01/Bola-Ahmed-Tinubu-e1653653706419.jpg","date":"2023-01-19","description":"Different! from balablu...","id":"abf63916-2467-4615-bb44-1e8c2568d153"}],"users":[{"email":"test@test.com","password":"$2a$12$9/IdluDkDUXsQ6e/2JPk1.Bf1SM0tNbIVa.0b0R3C6CY9EH6zmFHu","id":"a417d57e-4f2c-4536-8023-47dc307346f7"},{"email":"dev@code.com","password":"$2a$12$Sk79clQLBEHbSX0VyGZkXOOqAIZRG6k8MgEjMlQ3HWzazwjKDnkl.","id":"24d547a5-76ac-482c-98c0-f27220c7faee"},{"email":"test3@test.com","password":"$2a$12$YM0GKmqt3TwCqWApzdTZMugdcFss2SioLjMq3/qrxN1pfB/ZGUvaW","id":"6faa9200-5391-4b88-b34e-826bad46246b"},{"email":"test4@test.com","password":"$2a$12$ExQgloUNuSHrLFJZ5G0n0OPShUxsDumAvHEKW79wmkUzh238sZh4q","id":"deb1a224-a581-4cc6-b5b8-1a4ca50ef819"}]}
